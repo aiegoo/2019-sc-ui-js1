@@ -1,0 +1,3 @@
+[submodule "downstream"]
+	path = downstream
+	url = https://github.com/booldook/2019-sc-ui-js1.git
