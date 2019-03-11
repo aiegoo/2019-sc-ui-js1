@@ -1,3 +1,6 @@
+on Mar 11
+git submodule update or sync won't work... but this worked: cd to downstream (where the update should pull changes to) and then git pull... voiola it worked like a charm.
+
 # 2019-sc-ui-js1
 sinchon javascript 1
 일단 bdschool을 vs code에서 열고.. cd 2019 sc ui js1한다음 두가지 방식 가능.. 첫번째는 클론으로 하위의 downstream에 클론 저장하도록 하거나
